@@ -1,0 +1,50 @@
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.exe
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.deps.json
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.dll
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.pdb
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.g.resources
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.dll
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\refint\WpfApp4.dll
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.pdb
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\ref\WpfApp4.dll
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\Добавить тип.g.cs
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\Добавить тип.baml
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\aix\source\repos\WpfApp4\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.CopyComplete
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.exe
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.deps.json
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.runtimeconfig.json
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.dll
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\WpfApp4.pdb
+D:\проекты визуал студио\учёт бюджета\WpfApp4\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.AssemblyReference.cache
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\Добавить тип.g.cs
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\App.g.cs
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4_MarkupCompile.cache
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4_MarkupCompile.lref
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\MainWindow.baml
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\Добавить тип.baml
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.g.resources
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.AssemblyInfoInputs.cache
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.AssemblyInfo.cs
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.csproj.CopyComplete
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.dll
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\refint\WpfApp4.dll
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.pdb
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\WpfApp4.genruntimeconfig.cache
+D:\проекты визуал студио\учёт бюджета\WpfApp4\obj\Debug\net7.0-windows\ref\WpfApp4.dll
